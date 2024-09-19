@@ -14,5 +14,5 @@ Number row characters
 - ~ About
 
 LINKS
-[Brightspace](https://learn.georgebrown.ca/d2l/home)
-[Outlook](https://outlook.office.com/mail/)
+- [Brightspace](https://learn.georgebrown.ca/d2l/home)
+- [Outlook](https://outlook.office.com/mail/)
