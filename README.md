@@ -1,2 +1,15 @@
-# Test-1
-wda
+Number row characters
+- !
+- @
+- #
+- $
+- %
+- ^
+- &
+- *
+- (
+- )
+- _
+- +
+- ~
+
