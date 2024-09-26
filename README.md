@@ -19,3 +19,11 @@ LINKS
 
 EXPERIMENTS
 😂👀😭💯🥰📝🥺😨👆🤐😃✅🎉☝️👍❌🤔😀👏🤣😏👋🫶🤞💢😴💚😵‍💫✔️💅✨🫂😄🐱😐🥹🐒
+
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-Shift-T (Open closed tab)
+
+- Ctrl-Y (Redo)
+- Fn + Windows logo key + Space Bar (Screenshot)
+- Ctrl-P (Print)
