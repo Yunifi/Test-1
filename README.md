@@ -29,4 +29,4 @@ EXPERIMENTS
 - Ctrl-P (Print)
 
 Lab 6
-[CLI commands] (docs/cli.md)
+[CLI commands](docs/cli.md)
