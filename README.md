@@ -27,3 +27,6 @@ EXPERIMENTS
 - Ctrl-Y (Redo)
 - Fn + Windows logo key + Space Bar (Screenshot)
 - Ctrl-P (Print)
+
+Lab 6
+[CLI commands] (docs/cli.md)
