@@ -1,0 +1,13 @@
+[
+    {
+        "name": "LeBron James", //string
+      	"sports": "Basketball", //string
+      "team": {"name":"Lakers", "city":"Los Angeles"} //object
+    },
+      {
+        "name": "Lionel Messi",//string
+      	"sports": "Soccer",//string
+      "team": {"name":"Inter Miami", "city":"Miami"}//object
+    }
+
+]
